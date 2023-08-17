@@ -6,8 +6,6 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 phrase, typically using all the original letters exactly once.
 '''
 
-
-
 def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
         # creates a map to store sorted_word:list of anagrams
